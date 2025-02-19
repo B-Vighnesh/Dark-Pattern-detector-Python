@@ -1,3 +1,4 @@
+#Till here it analyses desktop screen and tell whether the data in dataset is present or not 
 from PIL import Image
 import pytesseract
 import re
